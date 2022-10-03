@@ -2,7 +2,10 @@
 ###### A Software Engineer From Izmir/Turkey
 *- 🔭 I’m currently a student  at Manisa Celal Bayar University*
 
-*- 🌱 I’m currently learning C#*
+*- 🌱 I’m currently learning Python*
+
+*- 📫 How to reach me: erola2917@gmail.com*
+
 <!--
 **ahmetcerol/ahmetcerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
