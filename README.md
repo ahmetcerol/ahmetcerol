@@ -2,7 +2,7 @@
 ###### A Software Engineer From Izmir/Turkey
 *- 🔭 I’m currently a student  at Manisa Celal Bayar University*
 
-*- 🌱 I’m currently learning Java-Spring Boot*
+*- 🌱 I’m currently learning Java-Spring Boot and React *
 
 *- 📫 How to reach me: erola2917@gmail.com*
 
