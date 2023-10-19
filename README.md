@@ -1,5 +1,5 @@
 ### Hi there I'm Ahmet 👋
-###### A Software Engineer From Izmir/Turkey
+###### Backend Developer | Spring Boot-Java  
 *- 🔭 I’m currently a student  at Manisa Celal Bayar University*
 
 *- 🌱 I’m currently learning Java-Spring Boot and React *
