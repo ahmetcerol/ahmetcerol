@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Ahmet Can Erol from Turkey<br><br>- 🔭 I’m Software Engineer as Spring Boot || Back End Developer<br>- 📚 I'm currently learning React and Docker<br>- ⚡ In my free time I do sport<br>- ☎️ How to reach me : erola2917@gmail.com</p>
+<p align="left">I'm Ahmet Can Erol from Turkey<br><br>- 🔭 I’m Software Engineer as Spring Boot && REACT JS || Full Stack Developer<br>- 📚 I'm currently learning Docker<br>- ⚡ In my free time I do sport<br>- ☎️ How to reach me : erola2917@gmail.com</p>
 
 ###
 
